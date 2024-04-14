@@ -1,0 +1,76 @@
+{
+    "jerseys": [
+      {
+        "title": "Nottingham Forest",
+        "image": "./images/mge.10.webp",
+        "price": 49.99,
+        "description": "Description of Nottingham Forest jersey"
+      },
+      {
+        "title": "Tottenham Hotspur",
+        "image": "./images/mge.11.webp",
+        "price": 59.99,
+        "description": "Description of Tottenham Hotspur jersey"
+      },
+      {
+        "title": "AFC Bournemouth",
+        "image": "./images/mge.12.webp",
+        "price": 39.99,
+        "description": "Description of AFC Bournemouth jersey"
+      },
+      {
+        "title": "Manchester United",
+        "image": "./images/mge.13.webp",
+        "price": 69.99,
+        "description": "Description of Manchester United jersey"
+      },
+      {
+        "title": "Germany",
+        "image": "./images/mge.1.webp",
+        "price": 79.99,
+        "description": "Description of Germany jersey"
+      },
+      {
+        "title": "Arsenal",
+        "image": "./images/mge.3.webp",
+        "price": 49.99,
+        "description": "Description of Arsenal jersey"
+      },
+      {
+        "title": "Everton",
+        "image": "./images/mge.7.webp",
+        "price": 49.99,
+        "description": "Description of Everton jersey"
+      },
+      {
+        "title": "Liverpool",
+        "image": "./images/mge.8.webp",
+        "price": 59.99,
+        "description": "Description of Liverpool jersey"
+      },
+      {
+        "title": "Manchester City",
+        "image": "./images/mge.9.webp",
+        "price": 39.99,
+        "description": "Description of Manchester City jersey"
+      },
+      {
+        "title": "Aston Villa",
+        "image": "./images/mge.4.webp",
+        "price": 59.99,
+        "description": "Description of Aston Villa jersey"
+      },
+      {
+        "title": "Watford",
+        "image": "./images/mge.5.webp",
+        "price": 69.99,
+        "description": "Description of Watford jersey"
+      },
+      {
+        "title": "Crystal Palace",
+        "image": "./images/mge.6.webp",
+        "price": 89.99,
+        "description": "Description of Crystal Palace jersey"
+      }
+    ]
+  }
