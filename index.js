@@ -42,7 +42,7 @@ async function fetchJerseys() {
         
         jerseys.forEach(jersey => {
             // Initialize count of available jerseys for each jersey to 10
-            let availableJerseys = 10;
+            let availableJerseys = jersey.availableJerseys || 10;
 
             const jerseyDiv = document.createElement('div');
             jerseyDiv.classList.add('jersey');
@@ -167,4 +167,9 @@ commentSection.addEventListener('click', async function(event) {
 // Fetch comments initially when the page loads
 window.onload = function() {
     fetchComments();
+
+    // Event listener for toggling dark and light mode
+    document.body.addEventListener('click', function () {
+        document.body.classList.toggle('dark-mode');
+    });
 };
