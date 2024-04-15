@@ -12,7 +12,8 @@
       "image": "./images/mge.11.webp",
       "price": 59.99,
       "description": "Description of Tottenham Hotspur jersey",
-      "id": "96be"
+      "id": "96be",
+      "availableJerseys": 9
     },
     {
       "title": "AFC Bournemouth",
@@ -82,7 +83,8 @@
       "image": "./images/mge.6.webp",
       "price": 89.99,
       "description": "Description of Crystal Palace jersey",
-      "id": "57b7"
+      "id": "57b7",
+      "availableJerseys": 9
     }
   ]
 }
